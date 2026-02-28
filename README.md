@@ -15,7 +15,7 @@ Currently building backend systems with **Python** and **FastAPI**.
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/alim-özgür-öztürk-o7)  
 - [LeetCode](https://leetcode.com/u/DusanTadic/)  
-- 📧 [Email Me](mailto:ozgr2908@gmail.com)  
+- 📧 ozgr2908@gmail.com  
 
 ---
 
